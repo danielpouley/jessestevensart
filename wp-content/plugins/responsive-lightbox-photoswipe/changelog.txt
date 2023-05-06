@@ -1,0 +1,47 @@
+Changelog:
+
+1.1.2
+Fix: Lightbox issues in Internet Explorer 11
+
+1.1.1
+Fix: Image sizes not generated for remote images
+
+1.1.0
+New: Responsive Lightbox 2.0 compatibility
+New: Icons color option
+
+1.0.6
+Fix: Text links lightbox broken 
+
+1.0.5
+Fix: iOS 10.3 resize bug
+
+1.0.4
+
+
+Fix: Plugin updater warning message
+Tweak: Changed textdomain name
+
+1.0.3
+
+New: Lightbox elements display control
+New: Option to adjust overlay, caption and top bar color and opacity
+New: Option to disable social sharing links
+
+1.0.2
+
+Fix: Pinch / zoom issue with WooCommerce gallery images
+
+1.0.1
+
+
+Fix: Lightbox container displayed at the bottom of the page
+Tweak: Updater class update to 1.6.5
+
+
+
+
+1.0.0
+
+
+Initial release

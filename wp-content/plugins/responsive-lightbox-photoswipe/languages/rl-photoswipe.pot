@@ -1,0 +1,396 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Photoswipe Lightbox\n"
+"POT-Creation-Date: 2017-05-31 09:36+0200\n"
+"PO-Revision-Date: 2015-05-12 12:06+0100\n"
+"Last-Translator: Bartosz Arendt <info@dfactory.eu>\n"
+"Language-Team: dFactory <info@dfactory.eu>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/class-frontend.php:53
+msgid "Close (Esc)"
+msgstr ""
+
+#: ../includes/class-frontend.php:54
+msgid "Share"
+msgstr ""
+
+#: ../includes/class-frontend.php:55
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: ../includes/class-frontend.php:56
+msgid "Zoom in/out"
+msgstr ""
+
+#: ../includes/class-frontend.php:68
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: ../includes/class-frontend.php:70
+msgid "Next (arrow right)"
+msgstr ""
+
+#: ../includes/class-frontend.php:181
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../includes/class-frontend.php:183
+msgid "Share on Google +"
+msgstr ""
+
+#: ../includes/class-frontend.php:185
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../includes/class-frontend.php:187
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../includes/class-frontend.php:189
+msgid "Download image"
+msgstr ""
+
+#: ../includes/class-settings.php:31
+msgid "PhotoSwipe"
+msgstr ""
+
+#: ../includes/class-settings.php:45
+msgid "Loop"
+msgstr ""
+
+#: ../includes/class-settings.php:48
+msgid ""
+"Loop slides when using swipe gesture. If set to true you'll be able to swipe "
+"from last to first image."
+msgstr ""
+
+#: ../includes/class-settings.php:52
+msgid "Esc Key"
+msgstr ""
+
+#: ../includes/class-settings.php:55
+msgid "Esc keyboard key to close PhotoSwipe."
+msgstr ""
+
+#: ../includes/class-settings.php:59
+msgid "Arrow Keys"
+msgstr ""
+
+#: ../includes/class-settings.php:62
+msgid "Keyboard left or right arrow key navigation."
+msgstr ""
+
+#: ../includes/class-settings.php:66
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/class-settings.php:72
+msgid "Background Opacity"
+msgstr ""
+
+#: ../includes/class-settings.php:75 ../includes/class-settings.php:88
+#: ../includes/class-settings.php:101
+msgid "Should be a number from 0 to 100."
+msgstr ""
+
+#: ../includes/class-settings.php:79
+msgid "Top Bar Color"
+msgstr ""
+
+#: ../includes/class-settings.php:85
+msgid "Top Bar Opacity"
+msgstr ""
+
+#: ../includes/class-settings.php:92
+msgid "Caption Bar Color"
+msgstr ""
+
+#: ../includes/class-settings.php:98
+msgid "Caption Bar Opacity"
+msgstr ""
+
+#: ../includes/class-settings.php:105
+msgid "Caption Text Color"
+msgstr ""
+
+#: ../includes/class-settings.php:111
+msgid "Caption Font Size"
+msgstr ""
+
+#: ../includes/class-settings.php:114
+msgid "Select caption font size."
+msgstr ""
+
+#: ../includes/class-settings.php:118
+msgid "Spacing"
+msgstr ""
+
+#: ../includes/class-settings.php:121
+msgid "Spacing ratio between slides."
+msgstr ""
+
+#: ../includes/class-settings.php:126
+msgid "Max Spread Zoom"
+msgstr ""
+
+#: ../includes/class-settings.php:129
+msgid ""
+"Maximum zoom level when performing spread (zoom) gesture. 2 means that image "
+"can be zoomed 2x from original size."
+msgstr ""
+
+#: ../includes/class-settings.php:133
+msgid "Caption"
+msgstr ""
+
+#: ../includes/class-settings.php:136
+msgid "Enable to display image title."
+msgstr ""
+
+#: ../includes/class-settings.php:140
+msgid "Arrow nav"
+msgstr ""
+
+#: ../includes/class-settings.php:143
+msgid "Enable arrow navigation."
+msgstr ""
+
+#: ../includes/class-settings.php:147
+msgid "Preloader"
+msgstr ""
+
+#: ../includes/class-settings.php:150
+msgid "Enable loading image preloader."
+msgstr ""
+
+#: ../includes/class-settings.php:154
+msgid "Close icon"
+msgstr ""
+
+#: ../includes/class-settings.php:157
+msgid "Enable to show close icon."
+msgstr ""
+
+#: ../includes/class-settings.php:161
+msgid "Fullscreen icon"
+msgstr ""
+
+#: ../includes/class-settings.php:164
+msgid "Enable to show fullscreen icon."
+msgstr ""
+
+#: ../includes/class-settings.php:168
+msgid "Zoom icon"
+msgstr ""
+
+#: ../includes/class-settings.php:171
+msgid "Enable to show zoom in/out icon."
+msgstr ""
+
+#: ../includes/class-settings.php:175
+msgid "Counter icon"
+msgstr ""
+
+#: ../includes/class-settings.php:178
+msgid "Enable to show image counter icon."
+msgstr ""
+
+#: ../includes/class-settings.php:182
+msgid "Counter separator"
+msgstr ""
+
+#: ../includes/class-settings.php:185
+msgid "Enter the image counter separator."
+msgstr ""
+
+#: ../includes/class-settings.php:189
+msgid "Sharing icon"
+msgstr ""
+
+#: ../includes/class-settings.php:192
+msgid "Enable to show social sharing icon."
+msgstr ""
+
+#: ../includes/class-settings.php:196
+msgid "Share link"
+msgstr ""
+
+#: ../includes/class-settings.php:199
+msgid "Select the sharing link URL."
+msgstr ""
+
+#: ../includes/class-settings.php:201
+msgid "Current URL"
+msgstr ""
+
+#: ../includes/class-settings.php:202
+msgid "Attachment Page"
+msgstr ""
+
+#: ../includes/class-settings.php:203
+msgid "Image File"
+msgstr ""
+
+#: ../includes/class-settings.php:208
+msgid "Facebook sharing"
+msgstr ""
+
+#: ../includes/class-settings.php:214
+msgid "Enable sharing on Facebook."
+msgstr ""
+
+#: ../includes/class-settings.php:226
+msgid "Google + sharing"
+msgstr ""
+
+#: ../includes/class-settings.php:232
+msgid "Enable sharing on Google +."
+msgstr ""
+
+#: ../includes/class-settings.php:244
+msgid "Twitter sharing"
+msgstr ""
+
+#: ../includes/class-settings.php:250
+msgid "Enable sharing on Twitter."
+msgstr ""
+
+#: ../includes/class-settings.php:262
+msgid "Pinterest sharing"
+msgstr ""
+
+#: ../includes/class-settings.php:268
+msgid "Enable sharing on Pinterest."
+msgstr ""
+
+#: ../includes/class-settings.php:280
+msgid "Download"
+msgstr ""
+
+#: ../includes/class-settings.php:286
+msgid "Enable image download option."
+msgstr ""
+
+#: ../includes/class-settings.php:298
+msgid "Close on Scroll"
+msgstr ""
+
+#: ../includes/class-settings.php:301
+msgid ""
+"Close gallery on page scroll. Option works just for devices without hardware "
+"touch support."
+msgstr ""
+
+#: ../includes/class-settings.php:305
+msgid "Close on Vertical Drag"
+msgstr ""
+
+#: ../includes/class-settings.php:308
+msgid ""
+"Close gallery when dragging vertically and when image is not zoomed. Always "
+"false when mouse is used."
+msgstr ""
+
+#: ../includes/class-settings.php:312
+msgid "Pinch to Close"
+msgstr ""
+
+#: ../includes/class-settings.php:315
+msgid ""
+"Pinch to close gallery gesture. The gallery’s background will gradually fade "
+"out as the user zooms out."
+msgstr ""
+
+#: ../includes/class-settings.php:319
+msgid "Pan to Next"
+msgstr ""
+
+#: ../includes/class-settings.php:322
+msgid "Allow swipe navigation to next/prev item when current item is zoomed."
+msgstr ""
+
+#: ../includes/class-settings.php:326
+msgid "History"
+msgstr ""
+
+#: ../includes/class-settings.php:329
+msgid ""
+"If set to false disables history module (back button to close gallery, "
+"unique URL for each slide)."
+msgstr ""
+
+#: ../includes/class-settings.php:333
+msgid "Focus"
+msgstr ""
+
+#: ../includes/class-settings.php:336
+msgid "Will set focus on PhotoSwipe element after it's open."
+msgstr ""
+
+#: ../includes/class-settings.php:340
+msgid "Modal"
+msgstr ""
+
+#: ../includes/class-settings.php:343
+msgid ""
+"Controls whether PhotoSwipe should expand to take up the entire viewport."
+msgstr ""
+
+#: ../includes/class-settings.php:360
+msgid "Licenses"
+msgstr ""
+
+#: ../includes/class-settings.php:378
+msgid "Photoswipe Lightbox"
+msgstr ""
+
+#: ../includes/class-updater.php:200
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../includes/class-updater.php:208
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: ../includes/class-updater.php:395
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../includes/class-updater.php:395
+msgid "Error"
+msgstr ""
+
+#: ../responsive-lightbox-photoswipe.php:77
+msgid ""
+"Responsive Lightbox - PhotoSwipe extension requires at least version 1.6.0 "
+"of Responsive Lightbox to work."
+msgstr ""
+
+#: ../responsive-lightbox-photoswipe.php:134
+msgid ""
+"Responsive Lightbox - PhotoSwipe extension requires Responsive Lightbox "
+"plugin activated to work."
+msgstr ""
+
+#: ../responsive-lightbox-photoswipe.php:277
+msgid "Settings"
+msgstr ""
+
+#: ../responsive-lightbox-photoswipe.php:293
+msgid "Support"
+msgstr ""

@@ -1,0 +1,4 @@
+[29-Apr-2021 18:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/baayeqav/jessestevensart.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/baayeqav/jessestevensart.com/wp-content/plugins/hello.php on line 69

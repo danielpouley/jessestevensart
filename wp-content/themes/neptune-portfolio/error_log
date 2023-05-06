@@ -1,0 +1,4 @@
+[08-Oct-2021 22:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/baayeqav/jessestevensart.com/wp-content/themes/neptune-portfolio/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/baayeqav/jessestevensart.com/wp-content/themes/neptune-portfolio/404.php on line 10
